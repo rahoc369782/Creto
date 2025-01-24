@@ -272,3 +272,39 @@
 2025/01/19 Purchase snacks
     expense:personal:food      50
     assets:cash:personal      -50
+2025/01/20 Purchase breakfast at office canteen.
+    expense:personal:office:food      30
+    assets:cash:personal      -30
+2025/01/20 Balance recharge personal from investment account because of insufficient money.
+    expense:utilities:recharge      302
+    assets:bank:ivaxis:mf      -302
+2025/01/20 Purchase some food for diet
+    expense:personal:food      100
+    assets:bank:ivaxis:mf      -100
+2025/01/21 Purchase breakfast at office canteen.
+    expense:personal:office:food      30
+    assets:cash:personal      -30
+2025/01/21 liability for friends money which was paid for food bill
+    expense:personal:food      250
+    assets:cash:personal      -250
+2025/01/21 Donation to societal purpose
+    expense:donation      3000
+    assets:bank:ivaxis:mf      -3000
+2025/01/20 Purchase tshirts and shirt for self
+    expense:personal:lifestyle:clothes      1300
+    assets:bank:ivaxis:mf      -1300
+2025/01/22 Purchase energy drink , waterbottle in leave day
+    expense:personal:drinks      160
+    assets:cash:personal      -160
+2025/01/22 Purchase food items , lunch , snacks in leave day
+    expense:personal:food      170
+    assets:cash:personal      -180
+2025/01/22 Purchase cadbury in snacks
+    expense:personal:food      95
+    assets:cash:personal      -95
+2025/01/23 Purchase drink for all
+    expense:personal:office:food      45
+    assets:bank:ivaxis:mf      -45
+2025/01/23 Adjusting amount paid from MF account
+    assets:bank:ivaxis:mf      155
+    assets:cash:personal      -155
