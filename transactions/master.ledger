@@ -1,4 +1,7 @@
-!include ../investments/mutual_funds.ledger
+;; Budget
+~ monthly
+  (expense:personal)              4000
+#!include ../investments/mutual_funds.ledger
 !include ../investments/stocks.ledger
 2024/12/26 Opening balance for IDFC emergency account
     assets:bank:emidfc      40000
@@ -7,10 +10,10 @@
     assets:bank:inicici      0
     equity:opening-balance      -0
 2024/12/27 Transfer from Akansha creditor account to Investment Bank account (AXIS MF)
-    assets:bank:ivaxis:mf      117000
+    assets:bank:ivaxis:mf:rsvfund      117000
     assets:bank:svsbi:creditors:akansha      -117000
 2024/12/27 Transfer from Home saving account to Investment bank account (AXIS MF)
-    assets:bank:ivaxis:mf      734000
+    assets:bank:ivaxis:mf:rsvfund      734000
     assets:bank:svsbi:home      -734000
 2024/12/27 Akansha (creditor) money transfer to creditor saving bank account (SBI creditor)
     assets:bank:svsbi:creditors:akansha      117000
@@ -28,7 +31,7 @@
     assets:bank:exfederal      500
     equity:opening-balance      -500
 2024/12/27 Transfer to Investment  MF  account  (AXIS MF)
-    assets:bank:ivaxis:mf      2500
+    assets:bank:ivaxis:mf:rsvfund      2500
     equity:opening-balance      -2500
 2024/12/27 Transfer amount to Home server bank account (UNION HOME RESERVE)
     assets:bank:reserve:union:home      150000
@@ -89,7 +92,7 @@
     assets:bank:svsbi:creditors:akansha      10000
     assets:bank:inicici     -10000
 2025/01/01 Amount transfred from salary account to MF account for investment
-    assets:bank:ivaxis:mf      20000
+    assets:bank:ivaxis:mf:rsvfund      20000
     assets:bank:inicici      -20000
 2025/01/01 Amount transfred from 
     assets:bank:ivaxis:trading      10000
@@ -214,7 +217,7 @@
     assets:bank:exfederal      -60
 2025/01/10 Self transfrer to match balance
     assets:bank:exfederal      103
-    assets:bank:ivaxis:mf      -103
+    assets:bank:ivaxis:mf:rsvfund      -103
 2025/01/11 Purchase Hell energy drink
     expense:personal:drinks      60
     assets:bank:exfederal      -60
@@ -277,10 +280,10 @@
     assets:cash:personal      -30
 2025/01/20 Balance recharge personal from investment account because of insufficient money.
     expense:utilities:recharge      302
-    assets:bank:ivaxis:mf      -302
+    assets:bank:ivaxis:mf:rsvfund      -302
 2025/01/20 Purchase some food for diet
     expense:personal:food      100
-    assets:bank:ivaxis:mf      -100
+    assets:bank:ivaxis:mf:rsvfund      -100
 2025/01/21 Purchase breakfast at office canteen.
     expense:personal:office:food      30
     assets:cash:personal      -30
@@ -289,22 +292,55 @@
     assets:cash:personal      -250
 2025/01/21 Donation to societal purpose
     expense:donation      3000
-    assets:bank:ivaxis:mf      -3000
+    assets:bank:ivaxis:mf:rsvfund      -3000
 2025/01/20 Purchase tshirts and shirt for self
     expense:personal:lifestyle:clothes      1300
-    assets:bank:ivaxis:mf      -1300
+    assets:bank:ivaxis:mf:rsvfund      -1300
 2025/01/22 Purchase energy drink , waterbottle in leave day
     expense:personal:drinks      160
     assets:cash:personal      -160
 2025/01/22 Purchase food items , lunch , snacks in leave day
-    expense:personal:food      170
+    expense:personal:food      180
     assets:cash:personal      -180
 2025/01/22 Purchase cadbury in snacks
     expense:personal:food      95
     assets:cash:personal      -95
 2025/01/23 Purchase drink for all
     expense:personal:office:food      45
-    assets:bank:ivaxis:mf      -45
+    assets:bank:ivaxis:mf:rsvfund      -45
 2025/01/23 Adjusting amount paid from MF account
-    assets:bank:ivaxis:mf      155
+    assets:bank:ivaxis:mf:rsvfund      155
     assets:cash:personal      -155
+2025/01/24 Purchase breakfast at office canteen.
+    expense:personal:office:food      25
+    assets:bank:ivaxis:mf:rsvfund      -25
+2025/01/25 Purchase energy drink
+    expense:personal:drinks      60
+    assets:bank:ivaxis:mf      -60
+2025/01/24 Dad's balance monthly
+    expense:utilities:recharge      350
+    assets:bank:ivaxis:mf      -350
+2025/01/24 Charge paid for turf for cricket
+    expense:entertainment      430
+    assets:cash:personal      -430
+2025/01/24 Household known bal tracking
+    known:bal:household    1400000
+    equity:opening-balance
+2025/01/25 Purchase energy drink
+    expense:personal:drinks      60
+    assets:bank:ivaxis:mf      -60
+2025/01/27 Purchase breakfast at office canteen.
+    expense:personal:office:food      30
+    assets:cash:personal      -30
+2025/01/27 Purchase snacks in home
+    expense:personal:office:food      45
+    assets:bank:ivaxis:mf      -45
+2025/01/27 Purchase energy drink 
+    expense:personal:drinks      60
+    assets:bank:ivaxis:mf      -60
+2025/01/28 Purchase breakfast at office canteen.
+    expense:personal:office:food      30
+    assets:bank:ivaxis:mf      -30
+2025/01/28 Purchase lunch at office
+    expense:personal:office:food      40
+    assets:bank:ivaxis:mf      -40
