@@ -219,3 +219,26 @@
     assets:bank:ivaxis:mf:liquidated_funds:dhan                                                           (112.68  * 347.0373)
     assets:investments:mutual_funds:dhan:NIPPON_INDIA_POWER_INFRA_FUND          -112.68 "INF204K01I92" @ 341.6
     gains:source:investments:mf:dhan
+
+
+2025/01/04 Sold SBI Large and Mid Cap Fund
+    assets:bank:ivaxis:mf:liquidated_funds:groww                                                          (71.588  * 319.52)
+    assets:investments:mutual_funds:groww:SBI_LARGE_AND_MIDCAP_FUNDS    -71.588 "INF200K01UH9" @ 279.37
+    gains:source:investments:mf:groww
+
+2025/01/04 Sold HDFC MULTICAP FUND
+    assets:bank:ivaxis:mf:liquidated_funds:groww                                                           (1856.045 * 17.29)
+    assets:investments:mutual_funds:groww:HDFC_MULTI_CAP_FUND    -1856.045 "INF179KC1BT3" @ 16.16
+    gains:source:investments:mf:groww
+
+
+2025/01/04 Sold Quant Infrastructure Fund Direct Growth
+     assets:bank:ivaxis:mf:liquidated_funds:groww                                                          (941.197  * 38.682)
+     assets:investments:mutual_funds:groww:QUANT_INFRASTRUCTURE_FUND   -941.197 "INF966L01705" @ 37.19
+     gains:source:investments:mf:groww
+
+
+2025/01/04 Purchased Nippon India Small Cap Fund Direct IDCW
+    assets:bank:ivaxis:mf:liquidated_funds:groww                                                          (241.255  * 86.01)
+    assets:investments:mutual_funds:groww:NIPPON_INDIA_MULTI_CAP_FUND    -241.255 "INF204K01XD4" @ 78.75
+    gains:source:investments:mf:groww

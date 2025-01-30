@@ -1,7 +1,7 @@
 ;; Budget
 ~ monthly
   (expense:personal)              4000
-#!include ../investments/mutual_funds.ledger
+!include ../investments/mutual_funds.ledger
 !include ../investments/stocks.ledger
 2024/12/26 Opening balance for IDFC emergency account
     assets:bank:emidfc      40000
@@ -343,4 +343,13 @@
     assets:bank:ivaxis:mf      -30
 2025/01/28 Purchase lunch at office
     expense:personal:office:food      40
+    assets:bank:ivaxis:mf      -40
+2025/01/28 Birthday celibration at office
+    expense:personal:office:parties      80
+    assets:bank:ivaxis:mf      -80
+2025/01/29 Purchase lunch at office
+    expense:personal:office:food      80
+    assets:bank:ivaxis:mf      -80
+2025/01/29 Purchase snacks 
+    expense:personal:food      40
     assets:bank:ivaxis:mf      -40
