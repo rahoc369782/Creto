@@ -1,8 +1,9 @@
-;; Budget
-~ monthly
-  (expense:personal)              4000
 !include ../investments/mutual_funds.ledger
 !include ../investments/stocks.ledger
+!include ../budget/budget.ledger
+
+; Started transaction listing
+
 2024/12/26 Opening balance for IDFC emergency account
     assets:bank:emidfc      40000
     equity:opening-balance      -40000
@@ -353,3 +354,18 @@
 2025/01/29 Purchase snacks 
     expense:personal:food      40
     assets:bank:ivaxis:mf      -40
+2025/01/30 Purchase breakfast at office canteen.
+    expense:personal:office:food      45
+    assets:bank:ivaxis:mf      -45
+2025/01/30 Purchase Hell energy drink
+    expense:personal:drinks      200
+    assets:bank:ivaxis:mf      -200
+2025/01/30 Purchase food at office
+    expense:personal:office:food      40
+    assets:bank:ivaxis:mf      -40
+2025/01/30 Purchase snacks at office
+    expense:personal:office:food      20
+    assets:bank:ivaxis:mf      -20
+2025/01/30 Donation to orphanage
+    expense:donation      1750
+    assets:bank:ivaxis:mf      -1750

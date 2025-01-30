@@ -1,0 +1,6 @@
+;; Budget
+~ monthly
+  (expense)	                  42000
+  (expense:personal)              3000
+  (expense:personal:office)       2000
+  (assets:bank:svsbi)		  22000
