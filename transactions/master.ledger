@@ -369,3 +369,31 @@
 2025/01/30 Donation to orphanage
     expense:donation      1750
     assets:bank:ivaxis:mf      -1750
+2025/01/31 Salary received for January month
+    assets:bank:inicici     103500
+    income:source:salary      -103500
+2025/02/01 Transfered from salary account to expense account
+    assets:bank:exfederal     55000
+    assets:bank:inicici       -55000
+2025/02/01 Transfered from salary account to home saving account
+    assets:bank:svsbi:home     10000
+    assets:bank:inicici       -10000
+2025/02/01 Transfered from salary account to emrgency account
+    assets:bank:emidfc     10000
+    assets:bank:inicici       -10000
+2025/02/01 Transfered from salary account to axis MF account
+    assets:bank:ivaxis:mf:rsvfund     20000
+    assets:bank:inicici       -20000
+2025/02/01 Paid partial liability of credit card AXIS - NEO
+    liabilities:credit_card:axis      1082
+    assets:bank:exfederal      -1082
+2025/02/01 Paid partial liability of credit card AXIS - MYZONE
+    liabilities:credit_card:axis      4000
+    assets:bank:exfederal      -4000
+2025/02/01 Paid partial liability of credit card IDFC - MYZONE
+    liabilities:credit_card:idfc      1700
+    assets:bank:exfederal      -1700
+2025/02/01 EMI paid to creditor (salim) for macbook purchased.
+    liabilities:creditors:salim      9890
+    assets:bank:exfederal      -9890
+
