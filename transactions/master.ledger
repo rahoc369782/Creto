@@ -327,6 +327,9 @@
 2025/01/24 Household known bal tracking
     known:bal:household    1400000
     equity:opening-balance
+2025/01/24 Household known bal tracking
+    known:bal:household    45700
+    equity:opening-balance
 2025/01/25 Purchase energy drink
     expense:personal:drinks      60
     assets:bank:ivaxis:mf      -60
@@ -369,7 +372,7 @@
 2025/01/30 Donation to orphanage
     expense:donation      1750
     assets:bank:ivaxis:mf      -1750
-2025/01/31 Salary received for January month
+2025/02/01 Salary received for January month
     assets:bank:inicici     103500
     income:source:salary      -103500
 2025/02/01 Transfered from salary account to expense account
@@ -397,3 +400,51 @@
     liabilities:creditors:salim      9890
     assets:bank:exfederal      -9890
 
+2025/02/01 Monthy amount received from Cr AKANSHA
+    assets:bank:svsbi:creditors:akansha      13000
+    liabilities:creditors:akansha      -13000
+2025/02/01 Money paid for gift of tajas wedding
+    expense:entertainment      700
+    assets:bank:ivaxis:mf      -700
+2025/02/01 Monthly amount for household expense
+    expense:household:monthly      20000
+    assets:bank:exfederal      -20000
+2025/02/01 Monthly rent paid
+    expense:household:rent      12000
+    assets:bank:exfederal      -12000
+2025/02/02 Purchase snacks
+    expense:personal:food      70
+    assets:bank:exfederal      -70
+2025/02/03 Purchase breakfast at office canteen.
+    expense:personal:office:food      25
+    assets:bank:exfederal      -25
+2025/02/03 Purchase coffee for office drinks
+    expense:groceries      254
+    assets:bank:exfederal      -254
+2025/02/03 Purchase sugarcane jiuce for office
+    expense:personal:office:drinks      45
+    assets:bank:exfederal      -45
+2025/02/03 Monthly amount sent to mummy's sister
+    expense:donation      3000
+    assets:bank:exfederal      -3000
+2025/02/04 Purchase health supplement
+    expense:medical      3200
+    assets:bank:inicici      -3200
+2025/02/04 Purchase Hell energy drink
+    expense:personal:drinks      60
+    assets:bank:exfederal      -60
+2025/02/05 Purchase ayurvedic drink
+    expense:groceries      20
+    assets:bank:exfederal      -20
+2025/02/05 Purchase sugarcane juice at office
+    expense:personal:drinks      20
+    assets:bank:exfederal      -20
+2025/02/06 Purchase breakfast at office canteen.
+    expense:personal:office:food      70
+    assets:bank:exfederal      -70
+2025/02/07 Purchase breakfast at office canteen.
+    expense:personal:office:food      50
+    assets:bank:exfederal      -50
+2025/02/06 Purchase hell energy drinks
+    expense:personal:drinks      60
+    assets:bank:ivaxis:mf      -60
