@@ -325,7 +325,7 @@
     expense:entertainment      430
     assets:cash:personal      -430
 2025/01/24 Household known bal tracking
-    known:bal:household    1400000
+    known:bal:household    1450000
     equity:opening-balance
 2025/01/24 Household known bal tracking
     known:bal:household    45700
@@ -448,3 +448,279 @@
 2025/02/06 Purchase hell energy drinks
     expense:personal:drinks      60
     assets:bank:ivaxis:mf      -60
+2025/02/07 Purchase socks and some handlooms
+    expense:personal:lifestyle:clothes      450
+    assets:bank:exfederal      -450
+2025/02/07 Shoes cleaning expense
+    expense:personal:lifestyle:shoes      400
+    assets:bank:exfederal      -400
+2025/02/08 Purchase Hell enegry drink
+    expense:personal:drinks      60
+    assets:bank:exfederal      -60
+2025/02/08 Purchase dog ffod
+    expense:groceries      20
+    assets:bank:exfederal      -20
+2025/02/08 Purchase tshirt for self
+    expense:personal:lifestyle:clothes      210
+    assets:bank:exfederal      -210
+2025/02/09 Purchase frankie 
+    expense:personal:food      40
+    assets:bank:exfederal      -40
+2025/02/09 Purchase cold drink
+    expense:personal:drinks      20
+    assets:bank:exfederal      -20
+2025/02/10 Purchase Breakfast at office.
+    expense:personal:office:food      70
+    assets:bank:exfederal      -70
+2025/02/10 Sugarcane juice
+    expense:personal:office:drinks      30
+    assets:bank:exfederal      -30
+2025/02/10 Purchase snacks while walking
+    expense:personal:food      20
+    assets:bank:exfederal      -20
+2025/02/11 Purchase breakfast at office canteen.
+    expense:personal:office:food      30
+    assets:bank:exfederal      -30
+2025/02/11 Purchase breakfast at office canteen.
+    expense:personal:office:food      40
+    assets:bank:exfederal      -40
+2025/02/12 Purchase ayurvedic kada
+    expense:personal:drinks      30
+    assets:bank:exfederal      -30
+2025/02/12 Purchase breakfast at office canteen.
+    expense:personal:office:food      80
+    assets:bank:exfederal      -80
+2025/02/12 Purchase cornato with friends
+    expense:personal:food      50
+    assets:bank:exfederal      -50
+2025/02/14 Purchase breakfast at office canteen.
+    expense:personal:office:food      25
+    assets:bank:exfederal      -25
+2025/02/14 Purchase tea
+    expense:personal:office:drinks      12
+    assets:bank:exfederal      -12
+2025/02/13 Purchase waffles at office
+    expense:personal:office:parties      110
+    assets:bank:exfederal      -110
+2025/02/14 Purchase breakfast at office canteen.
+    expense:personal:office:food      50
+    assets:bank:exfederal      -50
+2025/02/13 Purchase breakfast at office canteen.
+    expense:personal:office:food      35
+    assets:bank:exfederal      -35
+2025/02/14 Purchase lunch at office
+    expense:personal:office:food      70
+    assets:bank:exfederal      -70
+2025/02/13 Purchase food for office party
+    expense:personal:office:parties      50
+    assets:bank:exfederal      -50
+2025/02/14 Purchase cacke for sisters birthday
+    expense:groceries      300
+    assets:bank:inicici      -300
+2025/02/14 Purchase Energy drink
+    expense:personal:drinks      60
+    assets:bank:exfederal      -60
+2025/02/15 Purchase energy drink
+    expense:personal:drinks      60
+    assets:bank:exfederal      -60
+2025/02/15 Purchase snacks
+    expense:personal:food      85
+    assets:bank:exfederal      -85
+2025/02/16 Hair cutting expenses
+    expense:personal:lifestyle:grooming      190
+    assets:bank:exfederal      -190
+2025/02/16 Purchase snack 
+    expense:personal:food      50
+    assets:bank:inicici      -50
+2025/02/18 Office breakfast.
+    expense:personal:office:food      30
+    assets:bank:exfederal      -30
+2025/02/17 Purchase fruits for snacks
+    expense:personal:food      180
+    assets:bank:inicici      -180
+2025/02/19 Purchase breakfast at office canteen.
+    expense:personal:office:food      55
+    assets:bank:exfederal      -55
+2025/02/19 Purchase earbuds and some fruits
+    expense:groceries      3100
+    assets:bank:inicici      -3100
+2025/02/19 Purchase snack at office canteen.
+    expense:personal:office:food      40
+    assets:bank:exfederal      -40
+2025/02/21 Purchase breakfast at office canteen.
+    expense:personal:office:food      50
+    assets:bank:inicici      -50
+2025/02/21 Purchase snacks at office canteen.
+    expense:personal:office:food      30
+    assets:bank:exfederal      -30
+2025/02/22 Purchase energy drink
+    expense:personal:drinks      60
+    assets:bank:exfederal      -60
+2025/02/22 Purchase snacks
+    expense:personal:food      20
+    assets:bank:inicici      -20
+2025/02/23 Purchase footwear for family
+    expense:personal:lifestyle:shoes      700
+    assets:bank:inicici      -700
+2025/02/23 Purchase snack at night
+    expense:personal:food      80
+    assets:bank:inicici      -80
+2025/02/23 Purchase icecream for family
+    expense:groceries      145
+    assets:bank:ivaxis:mf      -145
+2025/02/24 Purchase breakfast at office canteen.
+    expense:personal:office:food      30
+    assets:bank:ivaxis:mf      -30
+2025/02/22 Purchase Enegy drink
+    expense:personal:drinks      60
+    assets:bank:inicici      -60
+2025/02/24 Purchase snack
+    expense:personal:food      140
+    assets:bank:ivaxis:mf      -140
+2025/02/24 Purchase snacks 
+    expense:personal:office:food      35
+    assets:bank:ivaxis:mf      -35
+2025/02/25 Purchase breakfast at office canteen.
+    expense:personal:office:food      30
+    assets:bank:ivaxis:mf      -30
+2025/02/25 Purchase sugarcane juice
+    expense:personal:office:drinks      60
+    assets:bank:ivaxis:mf      -60
+2025/02/26 Purchase drinks and coffee
+    expense:groceries      1320
+    assets:bank:ivaxis:mf      -1320
+2025/02/26 Purchase lassy
+    expense:personal:drinks      30
+    assets:bank:ivaxis:mf      -30
+2025/02/27 Purchase breakfast at office canteen.
+    expense:personal:office:food      40
+    assets:bank:ivaxis:mf      -40
+2025/02/27 Purchase Hell energy drink
+    expense:personal:office:drinks      60
+    assets:bank:ivaxis:mf      -60
+2025/02/27 Purchase snack
+    expense:personal:office:food      15
+    assets:bank:inicici      -15
+2025/03/01 Received salary for march month
+    assets:bank:inicici      103000
+    income:source:salary      -103000
+2025/03/01 Received monthly savings from Akansha
+    assets:bank:svsbi:creditors:akansha      16000
+    liabilities:creditors:akansha      -16000
+2025/03/02 Paid EMI liability
+    liabilities:credit_card:idfc      1700
+    assets:bank:inicici      -1700
+2025/03/03 Paid emi liability axis credit card
+    liabilities:credit_card:axis      3200
+    assets:bank:inicici      -3200
+2025/03/03 Emergency fund added
+    assets:bank:emidfc      25000
+    assets:bank:inicici      -25000
+2025/03/03 Added fund for investment
+    assets:bank:ivaxis:mf      20000
+    assets:bank:inicici      -20000
+2025/03/03 Fund added in home reserve
+    assets:bank:reserve:union:home      6000
+    assets:bank:inicici      -6000
+2025/03/03 Fund expense account for self expenses
+    assets:bank:exfederal      4000
+    assets:bank:inicici      -4000
+2025/03/04 Purchase breakfast at office canteen.
+    expense:personal:office:food      35
+    assets:bank:exfederal      -35
+2025/03/04 Purchase breakfast at office canteen.
+    expense:personal:office:food      35
+    assets:bank:exfederal      -35
+2025/03/04 Rent paid to owner
+    expense:household:rent      12000
+    assets:bank:inicici      -12000
+2025/03/04 Monthly household expenses
+    expense:household:monthly      20000
+    assets:bank:inicici      -20000
+2025/03/04 Purchase clothes 
+    expense:personal:lifestyle:clothes      1260
+    assets:bank:inicici      -1260
+2025/03/04 Personal snacks expe
+    expense:personal:food      25
+    assets:bank:exfederal      -25
+2025/03/05 Personal drinks
+    expense:personal:office:drinks      265
+    assets:bank:exfederal      -265
+2025/03/05 Purchase breakfast at office canteen.
+    expense:personal:office:food      35
+    assets:bank:exfederal      -35
+2025/03/05 Purchase drinks
+    expense:personal:office:drinks      30
+    assets:bank:exfederal      -30
+2025/03/05 Purchase chai
+    expense:personal:office:drinks      10
+    assets:bank:exfederal      -10
+2025/03/06 Purchase breakfast at office canteen.
+    expense:personal:office:food      40
+    assets:bank:exfederal      -40
+2025/03/05 purchase hell drink
+    expense:personal:drinks      70
+    assets:bank:exfederal      -70
+2025/03/06 Monthly donation
+    expense:donation      1000
+    assets:bank:inicici      -1000
+2025/03/06 Purchase hell drink
+    expense:personal:office:drinks      60
+    assets:bank:emidfc      -60
+2025/03/07 Purchase breakfast at office canteen.
+    expense:personal:office:food      35
+    assets:bank:exfederal      -35
+2025/03/07 Purchase groceries for self
+    expense:personal:food      160
+    assets:bank:exfederal      -160
+2025/03/04 Emi paid to salim for laptop
+    liabilities:creditors:salim      9870
+    assets:bank:inicici      -9870
+2025/03/07 Purchase food 
+    expense:personal:food      40
+    assets:bank:exfederal      -40
+2025/03/06 Donated money 
+    expense:donation      500
+    assets:bank:inicici      -500
+2025/03/09 Purchase snacks and sweets for family
+    expense:groceries      470
+    assets:bank:inicici      -470
+2025/03/10 Purchase breakfast at office canteen.
+    expense:personal:office:food      35
+    assets:bank:exfederal      -35
+2025/03/09 Purchase drink
+    expense:personal:drinks      60
+    assets:bank:exfederal      -60
+2025/03/10 Purchase groceries
+    expense:groceries      445
+    assets:bank:exfederal      -445
+2025/03/11 Purchase hair oil
+    expense:personal:lifestyle:grooming      70
+    assets:bank:exfederal      -70
+2025/03/12 Purchase breakfast at office canteen.
+    expense:personal:office:food      30
+    assets:bank:exfederal      -30
+2025/03/12 Purchase drink
+    expense:personal:drinks      60
+    assets:bank:exfederal      -60
+2025/03/21 Purchase cargos
+    expense:personal:lifestyle:clothes      2800
+    assets:bank:ivaxis:mf      -2800
+2025/03/14 Purchase lunch
+    expense:groceries      500
+    assets:bank:ivaxis:mf      -500
+2025/03/16 Purchase lunch on sunday
+    expense:personal:food      650
+    assets:bank:ivaxis:mf      -650
+2025/03/16 Personal energy drink
+    expense:personal:drinks      180
+    assets:bank:exfederal      -180
+2025/03/17 Purchase snacks
+    expense:personal:food      100
+    assets:bank:exfederal      -100
+2025/03/17 Recharge expense
+    expense:utilities:recharge      300
+    assets:bank:exfederal      -300
+2025/03/17 Purchase food for lunch
+    expense:personal:office:food      80
+    assets:bank:exfederal      -80
