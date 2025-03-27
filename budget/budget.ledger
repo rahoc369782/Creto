@@ -1,0 +1,16 @@
+;; Budget
+~ monthly
+  (expense:personal:drinks)              300
+  (expense:utilities:recharge)           650
+  (expense:personal:food)                300
+  (expense:personal:office:drinks)       300
+  (expense:personal:office:food)         300
+  (expense:household:monthly)            20000
+  (expense:household:rent)               12000
+  (assets:bank:svsbi:home)		           10000
+  (assets:bank:emidfc)		               10000
+  (assets:bank:exfederal)		             5000
+  (assets:bank:ivaxis:mf:rsvfund)		     5000
+  (assets:bank:ivaxis:trading:rsvfund)	 10000
+  (assets:bank:reserve:union:personal)   2000
+  (assets:bank:reserve:union:home)       2000

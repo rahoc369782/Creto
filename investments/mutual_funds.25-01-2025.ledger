@@ -1,0 +1,134 @@
+; MF HOLDINGS IN COIN
+2025/01/04 Purchased DSP ELSS Tax Saver Fund
+    assets:investments:mutual_funds:coin:DSP_ELSS_TAX_SAVER_FUND   912.611 "INF740K01OK1" @ 93.1347
+    assets:bank:ivaxis:mf                                       
+
+2025/01/04 Purchased HDFC Mid-Cap Opportunities Fund
+    assets:investments:mutual_funds:coin:HDFC_MID_CAP_OPPORTUNITIES_FUND    450.719 "INF179K01XO5" @ 55.2338
+    assets:bank:ivaxis:mf                                       
+
+2025/01/04 Purchased HDFC Multi Cap Fund
+    assets:investments:mutual_funds:coin:HDFC_MULTI_CAP_FUND    1941.63 "INF179KC1BT3" @ 12.8751
+    assets:bank:ivaxis:mf                                      
+
+2025/01/04 Purchased ICICI Prudential Manufacturing Fund
+    assets:investments:mutual_funds:coin:ICICI_PRUDENTIAL_MANUFACTURING_FUND    136.456 "INF109KC1LJ8" @ 36.64
+    assets:bank:ivaxis:mf                                       
+
+2025/01/04 Purchased Mirae Asset ELSS Tax Saver Fund
+    assets:investments:mutual_funds:coin:MIRAE_ASSET_ELSS_TAX_SAVER_FUND    2513.481 "INF769K01DM9" @ 35.8051
+    assets:bank:ivaxis:mf                                       
+
+2025/01/04 Purchased Nippon India Multi Cap Fund
+    assets:investments:mutual_funds:coin:NIPPON_INDIA_MULTI_CAP_FUND    300.354 "INF204K01XD4" @ 66.5848
+    assets:bank:ivaxis:mf                                       
+
+2025/01/04 Purchased Nippon India Small Cap Fund
+    assets:investments:mutual_funds:coin:NIPPON_INDIA_SMALL_CAP_FUND    313.594 "INF204K01J91" @ 79.7171
+    assets:bank:ivaxis:mf                                       
+
+2025/01/04 Purchased Quant Active Fund
+    assets:investments:mutual_funds:coin:QUANT_ACTIVE_FUND    479.842 "INF966L01598" @ 57.3077
+    assets:bank:ivaxis:mf                                       
+
+2025/01/04 Purchased Quant Small Cap Fund
+    assets:investments:mutual_funds:coin:QUANT_SMALL_CAP_FUND    164.201 "INF966L01663" @ 137.0196
+    assets:bank:ivaxis:mf                                       
+
+2025/01/04 Purchased SBI Large & Midcap Fund
+    assets:investments:mutual_funds:coin:SBI_LARGE_AND_MIDCAP_FUND    21.318 "INF200K01UH9" @ 234.5264
+    assets:bank:ivaxis:mf                                      
+
+
+; MF HOLDINGS IN GROW
+
+2025/01/04 Purchased HDFC Multi Cap Fund Direct IDCW
+    assets:investments:mutual_funds:groww:HDFC_MULTI_CAP_FUND    1856.045 "INF179KC1BT3" @ 16.16
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Mirae Asset ELSS Tax Saver Fund Direct Growth
+    assets:investments:mutual_funds:groww:MIRAE_ASSET_ELSS_TAX_SAVER_FUND    255.872 "INF769K01DM9" @ 39.07
+    assets:bank:ivaxis:mf
+
+
+2025/01/04 Purchased Quant Infrastructure Fund Direct Growth
+    assets:investments:mutual_funds:groww:QUANT_INFRASTRUCTURE_FUND   941.197 "INF966L01705" @ 37.19
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Nippon India Small Cap Fund Direct IDCW
+    assets:investments:mutual_funds:groww:NIPPON_INDIA_SMALL_CAP_FUND   52.165 "INF204K01J91" @ 95.85
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Nippon India Multi Cap Fund Direct IDCW
+    assets:investments:mutual_funds:groww:NIPPON_INDIA_MULTI_CAP_FUND    321.25 "INF204K01XD4" @ 81.90
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Nippon India Power & Infra Fund Direct Growth
+    assets:investments:mutual_funds:groww:NIPPON_INDIA_POWER_INFRA_FUND    25.459 "INF204K01I92" @ 392.78
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased SBI Large & Midcap Fund Direct Plan IDCW
+    assets:investments:mutual_funds:groww:SBI_LARGE_AND_MIDCAP_FUND    71.588 "INF200K01UH9" @ 279.42
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Quant Small Cap Fund Direct Plan IDCW
+    assets:investments:mutual_funds:groww:QUANT_SMALL_CAP_FUND   112.473 "INF966L01663" @ 177.85
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Aditya Birla Sun Life PSU Equity Fund Direct Growth
+    assets:investments:mutual_funds:groww:ADITYA_BIRLA_SUN_LIFE_PSU_EQUITY_FUND    942.732 "INF209KB1O82" @ 31.82
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Quant Active Fund Direct IDCW
+    assets:investments:mutual_funds:groww:QUANT_ACTIVE_FUND   311.90 "INF966L01598" @ 80.12
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased ICICI Prudential Technology Direct Plan Growth
+    assets:investments:mutual_funds:groww:ICICI_PRUDENTIAL_TECHNOLOGY_DIRECT_PLAN_GROWTH   227.874 "INF109K01Z48" @ 197.37
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased DSP ELSS Tax Saver Direct Plan Growth
+    assets:investments:mutual_funds:groww:DSP_ELSS_TAX_SAVER_FUND   236.363 "INF740K01OK1" @ 105.77
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Quant Flexi Cap Fund Direct Growth
+    assets:investments:mutual_funds:groww:QUANT_FLEXI_CAP_FUND   560.696 "INF966L01911" @ 93.59
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Mahindra Manulife Mid Cap Fund Direct Growth
+    assets:investments:mutual_funds:groww:MAHINDRA_MANULIFE_MID_CAP_FUND   1349.923 "INF174V01507" @ 31.48
+    assets:bank:ivaxis:mf
+
+
+; MF HOLDINGS IN DHAN 
+
+
+2025/01/04 Purchased Nippon India Power & Infra Fund Direct Growth
+    assets:investments:mutual_funds:dhan:NIPPON_INDIA_POWER_INFRA_FUND   112.68 "INF204K01I92" @ 341.6
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Quant Large And Mid Cap Direct Growth
+    assets:investments:mutual_funds:dhan:QUANT_LARGE_AND_MIDCAP_FUND    239 "INF966L01648" @ 135.67
+    assets:bank:ivaxis:mf
+
+
+
+; MF HOLDINGS IN INDMONEY
+
+2025/01/04 Purchased Motilal Oswal Large and Midcap Fund Direct Growth
+    assets:investments:mutual_funds:indmoney:MOTILAL_OSWAL_LARGE_AND_MIDCAP_FUND    685 "INF247L01999" @ 36.46
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Kotak Multicap Fund Direct Growth
+    assets:investments:mutual_funds:indmoney:KOTAK_MULTICAP_FUND    1221 "INF174KA1HV3" @ 20.46
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased Motilal Oswal Midcap Direct Growth
+    assets:investments:mutual_funds:indmoney:MOTILAL_OSWAL_MIDCAP_FUND    162 "INF247L01445" @ 124.01
+    assets:bank:ivaxis:mf
+
+2025/01/04 Purchased ICICI Prudential Dividend Yield Equity Fund Direct Growth
+    assets:investments:mutual_funds:indmoney:ICICI_PRUDENTIAL_DIVIDEND_YIELD_EQUITY_FUND    83 "INF109KA1UA0" @ 59.94
+    assets:bank:ivaxis:mf
+
+
