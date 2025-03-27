@@ -784,10 +784,13 @@
 2025/03/27 Purchase groceries
     expense:groceries      1000
     assets:bank:ivaxis:mf      -1000
+2025/03/28 Purchase groceries
+    expense:groceries      1000
+    assets:bank:ivaxis:mf      -1000
 2025/03/27 Amount transfer of debtors and for investments
     assets:bank:ivaxis:mf      13000
     assets:bank:inicici      -13000
-2025/03/27 Transfer from salary acccount to emergency account
+2025/04/02 Transfer from salary acccount to emergency account
     assets:bank:emidfc      17000
     assets:bank:inicici      -17000
 2025/03/20 Purchase watch
@@ -820,3 +823,6 @@
 2025/04/02 Transfer from salary account to MF saving ac
     assets:bank:ivaxis:mf      20000
     assets:bank:inicici      -20000
+2025/04/02 Transfer from salary account to Union fund saving ac
+    assets:bank:reserve:union:home      7000
+    assets:bank:inicici      -7000

@@ -149,13 +149,34 @@
     assets:investments:mutual_funds:coin:DSP_TIGER_FUND_DIRECT_PLAN    53.506 "INF740K01PU7" @ 280.327
     assets:bank:ivaxis:mf:rsvfund:coin
 
+2025/03/02 Purchased DSP TIGER FUND - DIRECT PLAN
+    assets:investments:mutual_funds:coin:DSP_TIGER_FUND_DIRECT_PLAN    49.35 "INF740K01PU7" @ 303.91
+    assets:bank:ivaxis:mf:rsvfund:coin
+
+2025/03/02 Purchased DSP TIGER FUND - DIRECT PLAN
+    assets:investments:mutual_funds:coin:DSP_TIGER_FUND_DIRECT_PLAN    16.004 "INF740K01PU7" @ 312.41 
+    assets:bank:ivaxis:mf:rsvfund:coin
+
 2025/02/28 Purchased QUANT SMALL CAP FUND - DIRECT PLAN
     assets:investments:mutual_funds:coin:QUANT_SMALL_CAP_FUND_DIRECT_PLAN    109.932 "INF966L01663" @ 181.922
+    assets:bank:ivaxis:mf:rsvfund:coin
+
+2025/03/24 Purchased QUANT SMALL CAP FUND - DIRECT PLAN
+    assets:investments:mutual_funds:coin:QUANT_SMALL_CAP_FUND_DIRECT_PLAN    25.24 "INF966L01663" @ 198.09
     assets:bank:ivaxis:mf:rsvfund:coin
 
 2025/02/28 Purchased SBI LARGE & MIDCAP FUND - DIRECT PLAN
     assets:investments:mutual_funds:coin:SBI_LARGE_MIDCAP_FUND_DIRECT_PLAN    82.256 "INF200K01UH9" @ 303.9134
     assets:bank:ivaxis:mf:rsvfund:coin
+
+    
+2025/03/24 Purchased SBI LARGE & MIDCAP FUND - DIRECT PLAN
+    assets:investments:mutual_funds:coin:SBI_LARGE_MIDCAP_FUND_DIRECT_PLAN    15.377 "INF200K01UH9" @ 325.14
+    assets:bank:ivaxis:mf:rsvfund:groww
+
+2025/02/28 Purchased SBI LARGE & MIDCAP FUND - DIRECT PLAN
+    assets:investments:mutual_funds:coin:SBI_LARGE_MIDCAP_FUND_DIRECT_PLAN    15.705 "INF200K01UH9" @ 318.36
+    assets:bank:ivaxis:mf:rsvfund
 
 2025/03/07 Purchased DSP NATURAL RESOURCES AND NEW ENERGY FUND - DIRECT PLAN
     assets:investments:mutual_funds:coin:DSP_NATURAL_RESOURCES_NEW_ENERGY_FUND_DIRECT_PLAN    635.737 "INF740K01QB5" @ 31.458
